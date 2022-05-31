@@ -9,4 +9,4 @@ const getCurrentDayForecast = (data, title) => ({
     weatherDescription: data.weather_state_name,
 });
 
-export default getCurrentDayForecast;
+export default getCurrentDayForecast
