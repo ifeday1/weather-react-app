@@ -17,4 +17,4 @@ Error.defaultProps = {
     message: 'An error occurred',
 };
 
-export default Error
+export default Error;
