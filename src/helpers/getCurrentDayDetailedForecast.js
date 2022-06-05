@@ -31,4 +31,4 @@ const currentDayForecast = data => [
     },
 ];
 
-export default currentDayForecast
+export default currentDayForecast;
